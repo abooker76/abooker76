@@ -3,12 +3,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/abooker76/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/adrianbooker76/Algorithms-Practice)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="abooker76 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="adrianbooker76 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://linkedin.com/in/adrian-booker
